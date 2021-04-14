@@ -16,4 +16,4 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [How to test HTTP requests in Elixir with ExVCR](https://curiosum.dev/blog/test-http-requests-in-elixir-with-exvcr)
 - [Top 5 Elixir Skills to Learn in 2021 [for Juniors]](https://curiosum.dev/blog/elixir-key-skills-junior)
 - [Elixir in 2021: The Now, The Tomorrow, The Future](https://curiosum.dev/blog/elixir-2021-now-and-future)
-- [How to compose and refactor Ecto queries with Queries Modules] (https://curiosum.dev/blog/composable-elixir-ecto-queries-modules)
+- [How to compose and refactor Ecto queries with Queries Modules](https://curiosum.dev/blog/composable-elixir-ecto-queries-modules)
