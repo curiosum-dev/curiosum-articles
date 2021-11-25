@@ -19,3 +19,6 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [How to compose and refactor Ecto queries with Queries Modules](https://curiosum.dev/blog/composable-elixir-ecto-queries-modules?utm_source=social&utm_medium=github)
 - [Debugging Elixir Code - The Definitive Guide](https://curiosum.dev/blog/debugging-elixir-code-the-definitive-guide?utm_source=social&utm_medium=github)
 - [Why Elixir & Phoenix is a great choice for your web app in 2022](https://curiosum.com/blog/why-elixir-phoenix-great-choice-for-modern-web-app)
+- [Elixir Programming Language - Interview](https://curiosum.com/blog/elixir-programming-language-interview)
+- [10 Marketing Tools Based on Elixir](https://curiosum.com/blog/marketing-tools-based-on-elixir)
+- [Top Elixir Learning Media & Resources in 2022](https://curiosum.com/blog/top-elixir-media-resources-2022)
