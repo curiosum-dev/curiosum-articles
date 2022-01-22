@@ -22,3 +22,6 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Elixir Programming Language - Interview](https://curiosum.com/blog/elixir-programming-language-interview)
 - [10 Marketing Tools Based on Elixir](https://curiosum.com/blog/marketing-tools-based-on-elixir)
 - [Top Elixir Learning Media & Resources in 2022](https://curiosum.com/blog/top-elixir-media-resources-2022)
+- [The little story of Elixir programming language](https://curiosum.com/blog/story-of-elixir-programming-language)
+- [Custom eLearning Application in Elixir – why is worth it?](https://curiosum.com/blog/custom-elearning-application-elixir-why-projects-examples)
+- [10 Marketing Tools Based on Elixir](https://curiosum.com/blog/marketing-tools-based-on-elixir)
