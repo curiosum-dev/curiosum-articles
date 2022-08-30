@@ -37,3 +37,4 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [How to upload a file in Elixir with Waffle](https://curiosum.com/blog/how-upload-file-elixir-waffle)
 - [ElixirConf EU 2021 - short write-up from Michał Buszkiewicz](https://curiosum.com/blog/elixirconf-eu-review-event)
 - [Debugging Elixir Code: The Definitive Guide](https://curiosum.com/blog/debugging-elixir-code-the-definitive-guide)
+- [How to program an IoT device in Elixir using Nerves?](https://curiosum.com/blog/how-program-iot-device-elixir-using-nerves)
