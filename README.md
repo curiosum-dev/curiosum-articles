@@ -36,5 +36,6 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Custom eLearning Application in Elixir – why is worth it? Real-life projects examples](https://curiosum.com/blog/custom-elearning-application-elixir-why-projects-examples)
 - [How to upload a file in Elixir with Waffle](https://curiosum.com/blog/how-upload-file-elixir-waffle)
 - [ElixirConf EU 2021 - short write-up from Michał Buszkiewicz](https://curiosum.com/blog/elixirconf-eu-review-event)
-- [Debugging Elixir Code: The Definitive Guide](https://curiosum.com/blog/debugging-elixir-code-the-definitive-guide)
-- [How to program an IoT device in Elixir using Nerves?](https://curiosum.com/blog/how-program-iot-device-elixir-using-nerves)
+- [10 Marketing Tools Based on Elixir](https://curiosum.com/blog/marketing-tools-based-on-elixir)
+- [8 SaaS Using Elixir and Phoenix in Production](https://curiosum.com/blog/saas-using-elixir-and-phoenix)
+- [Elixir vs Ruby in Depth Comparison](https://curiosum.com/blog/elixir-vs-ruby-comparison)
