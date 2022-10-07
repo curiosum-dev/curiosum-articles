@@ -41,3 +41,4 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Testing React Applications](https://curiosum.com/blog/testing-react-applications)
 - [How to program an IoT device in Elixir using Nerves?](https://curiosum.com/blog/how-program-iot-device-elixir-using-nerves)
 - [A Software House or a Product Company? Which One is the Best Choice for a Developer to Gain Knowledge and Build Success?](https://curiosum.com/blog/software-house-or-product-company-which-is-best-choice-for-developer)
+- [Elixir vs Cybersecurity - is Elixir Language a Safe Technology?](https://curiosum.com/blog/elixir-cybersecurity-safe-technology)
