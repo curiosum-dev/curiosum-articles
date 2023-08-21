@@ -49,3 +49,8 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [React-native vs Flutter comparison](https://curiosum.com/blog/react-native-flutter-comparison)
 - [Adoption of Elixir in production by top companies](https://curiosum.com/blog/adoption-of-elixir-by-top-companies)
 - [Context maintainability & guidelines in Elixir & Phoenix](https://curiosum.com/blog/elixir-phoenix-context-maintainability-guildelines)
+- [From idea to app: The ultimate guide to digital product development](https://curiosum.com/blog/from-idea-to-app-the-ultimate-guide-to-digital-product-development)
+- [SQL Injections vs Elixir](https://curiosum.com/blog/sql-injections-vs-elixir)
+- [https://curiosum.com/blog/paraxial-elixir-case-study](https://curiosum.com/blog/paraxial-elixir-case-study)
+- [Conversational AI: Exploring Product Ideas Leveraging GPT-4 as a Core Component](https://curiosum.com/blog/exploring-product-ideas-leveraging-gpt-4-as-a-core-component)
+- [Implicit try in Elixir](https://curiosum.com/til/elixir-implicit-try-error-handling)
