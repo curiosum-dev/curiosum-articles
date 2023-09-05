@@ -54,3 +54,4 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [https://curiosum.com/blog/paraxial-elixir-case-study](https://curiosum.com/blog/paraxial-elixir-case-study)
 - [Conversational AI: Exploring Product Ideas Leveraging GPT-4 as a Core Component](https://curiosum.com/blog/exploring-product-ideas-leveraging-gpt-4-as-a-core-component)
 - [Implicit try in Elixir](https://curiosum.com/til/elixir-implicit-try-error-handling)
+- [Introducing Kanta - the ultimate solution to translations in Elixir & Phoenix web apps](https://curiosum.com/blog/introducing-kanta-elixir-phoenix-open-source-translation-tool)
