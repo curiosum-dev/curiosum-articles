@@ -55,3 +55,12 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Conversational AI: Exploring Product Ideas Leveraging GPT-4 as a Core Component](https://curiosum.com/blog/exploring-product-ideas-leveraging-gpt-4-as-a-core-component)
 - [Implicit try in Elixir](https://curiosum.com/til/elixir-implicit-try-error-handling)
 - [Introducing Kanta - the ultimate solution to translations in Elixir & Phoenix web apps](https://curiosum.com/blog/introducing-kanta-elixir-phoenix-open-source-translation-tool)
+- [Choosing Your Tech Stack: A wide Guide for Businesses](https://curiosum.com/blog/choosing-your-tech-stack-guide)
+- [Staff Augmentation, Outsourcing, Business Scaling, IT Development Teams: Key Strategies for Success](https://curiosum.com/blog/staff-augmentation-outsourcing-business-scaling-it-development-teams)
+- [Authorize access to your Phoenix app with Permit](https://curiosum.com/blog/authorize-access-to-your-phoenix-app-with-permit)
+- [What is Digital Transformation, and why your organization needs it](https://curiosum.com/blog/what-is-digital-transformation)
+- [Elixir streams and list comprehensions](https://curiosum.com/blog/elixir-streams-and-lists-comprehensions)
+- [Do you need a dedicated mobile application in React Native? WebView guide](https://curiosum.com/blog/dedicated-mobile-application-in-react-native-webview-guide)
+- [Phoenix Component guide - reusable building blocks of modern web application](https://curiosum.com/blog/phoenix-component)
+
+
