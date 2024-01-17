@@ -62,5 +62,8 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Elixir streams and list comprehensions](https://curiosum.com/blog/elixir-streams-and-lists-comprehensions)
 - [Do you need a dedicated mobile application in React Native? WebView guide](https://curiosum.com/blog/dedicated-mobile-application-in-react-native-webview-guide)
 - [Phoenix Component guide - reusable building blocks of modern web application](https://curiosum.com/blog/phoenix-component)
+- [Performance Optimization with React 18 Concurrent Rendering](https://curiosum.com/blog/performance-optimization-with-react-18-concurrent-rendering)
+- [What is Phoenix LiveView? An introductory overview](https://curiosum.com/blog/phoenix-liveview-overview)
+
 
 
