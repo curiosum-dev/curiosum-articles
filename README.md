@@ -66,6 +66,11 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [What is Phoenix LiveView? An introductory overview](https://curiosum.com/blog/phoenix-liveview-overview)
 - [Elixir programming language guide - learn why it's so admired](https://curiosum.com/blog/elixir-programming-language-guide)
 - [Phoenix framework - the world's most loved web framework based on Elixir](https://curiosum.com/blog/phoenix-framework-guide)
+- [Deploying Phoenix app with mix releases](https://curiosum.com/blog/deploying-phoenix-app-with-mix-releases)
+- [Proptech Market Trends: The Future Of Real Estate Technology](https://curiosum.com/blog/proptech-market-trends-the-future-of-real-estate-technology)
+- [Borrowing libs from Python in Elixir](https://curiosum.com/blog/borrowing-libs-from-python-in-elixir)
+- [GraphQL in React applications](https://curiosum.com/blog/graphql-in-react-applications)
+
 
 
 
