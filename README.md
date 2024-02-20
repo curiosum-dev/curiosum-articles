@@ -70,6 +70,7 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Proptech Market Trends: The Future Of Real Estate Technology](https://curiosum.com/blog/proptech-market-trends-the-future-of-real-estate-technology)
 - [Borrowing libs from Python in Elixir](https://curiosum.com/blog/borrowing-libs-from-python-in-elixir)
 - [GraphQL in React applications](https://curiosum.com/blog/graphql-in-react-applications)
+- [Enhancing user experience in LiveView applications with Alpine.js](https://curiosum.com/blog/enhancing-user-experience-in-liveview-applications-with-alpinejs)
 
 
 
