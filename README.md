@@ -71,6 +71,7 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Borrowing libs from Python in Elixir](https://curiosum.com/blog/borrowing-libs-from-python-in-elixir)
 - [GraphQL in React applications](https://curiosum.com/blog/graphql-in-react-applications)
 - [Enhancing user experience in LiveView applications with Alpine.js](https://curiosum.com/blog/enhancing-user-experience-in-liveview-applications-with-alpinejs)
+- [Absinthe with Phoenix Framework - a guide to properly get started with GraphQL using Elixir](https://curiosum.com/blog/absinthe-with-phoenix-framework-a-guide-to-properly-get-started-with-graphql-using-elixir)
 
 
 
