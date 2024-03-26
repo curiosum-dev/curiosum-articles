@@ -72,6 +72,9 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [GraphQL in React applications](https://curiosum.com/blog/graphql-in-react-applications)
 - [Enhancing user experience in LiveView applications with Alpine.js](https://curiosum.com/blog/enhancing-user-experience-in-liveview-applications-with-alpinejs)
 - [Absinthe with Phoenix Framework - a guide to properly get started with GraphQL using Elixir](https://curiosum.com/blog/absinthe-with-phoenix-framework-a-guide-to-properly-get-started-with-graphql-using-elixir)
+- [React Native comprehensive guide](https://curiosum.com/blog/advantages-of-react-native)
+- [What is Elixir GenServer](https://curiosum.com/blog/what-is-elixir-genserver)
+- [Understanding RESO Web API: The Key to Efficient Real Estate Data Exchange](https://curiosum.com/blog/understanding-reso-web-api)
 
 
 
