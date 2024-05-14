@@ -77,6 +77,7 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Understanding RESO Web API: The Key to Efficient Real Estate Data Exchange](https://curiosum.com/blog/understanding-reso-web-api)
 - [Property Development Management Software Solutions for improved Operations](https://curiosum.com/blog/property-development-management-software-solutions)
 - [Segregate Responsibilities with Elixir Commanded](https://curiosum.com/blog/segregate-responsibilities-with-elixir-commanded)
+- [Fine tuning DistilBERT model for Extractive Question Answering in Elixir](https://curiosum.com/blog/fine-tuning-distilbert-model-in-elixir)
 
 
 
