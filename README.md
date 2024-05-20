@@ -78,6 +78,7 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Property Development Management Software Solutions for improved Operations](https://curiosum.com/blog/property-development-management-software-solutions)
 - [Segregate Responsibilities with Elixir Commanded](https://curiosum.com/blog/segregate-responsibilities-with-elixir-commanded)
 - [Fine tuning DistilBERT model for Extractive Question Answering in Elixir](https://curiosum.com/blog/fine-tuning-distilbert-model-in-elixir)
+- [Improve your component's game with Storybook](https://curiosum.com/blog/components-game-with-storybook)
 
 
 
