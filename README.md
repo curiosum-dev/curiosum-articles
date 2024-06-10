@@ -79,6 +79,7 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Segregate Responsibilities with Elixir Commanded](https://curiosum.com/blog/segregate-responsibilities-with-elixir-commanded)
 - [Fine tuning DistilBERT model for Extractive Question Answering in Elixir](https://curiosum.com/blog/fine-tuning-distilbert-model-in-elixir)
 - [Improve your component's game with Storybook](https://curiosum.com/blog/components-game-with-storybook)
+- [Elixir Anti-Patterns - What Not to Do in Your Code](https://curiosum.com/blog/elixir-anti-patterns)
 
 
 
