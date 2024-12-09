@@ -85,6 +85,7 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Exploring React 19 Features: New Hooks and Actions for Better Form Handling](https://curiosum.com/blog/react-19-features)
 - [Packaging an Elixir/Phoenix application with Nix](https://curiosum.com/blog/packaging-elixir-application-with-nix)
 - [Bringing SOLID to Elixir](https://curiosum.com/blog/bringing-solid-to-elixir)
+- [Introduction to FLAME library](https://curiosum.com/blog/introduction-to-flame-library)
 
 
 
