@@ -86,6 +86,7 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Packaging an Elixir/Phoenix application with Nix](https://curiosum.com/blog/packaging-elixir-application-with-nix)
 - [Bringing SOLID to Elixir](https://curiosum.com/blog/bringing-solid-to-elixir)
 - [Introduction to FLAME library](https://curiosum.com/blog/introduction-to-flame-library)
+- [Interactive Data Tables in Phoenix LiveView: AG Grid Integration Made Simple](https://curiosum.com/sl/j5y1g0jx)
 
 
 
