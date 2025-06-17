@@ -89,7 +89,8 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [Interactive Data Tables in Phoenix LiveView: AG Grid Integration Made Simple](https://curiosum.com/sl/j5y1g0jx)
 - [Introducing Contexted – Phoenix Contexts, Simplified](https://curiosum.com/blog/introducing-contexted)
 - [Security in Elixir and Phoenix](https://curiosum.com/blog/security-in-elixir)
-
+- [Elixir Adoption Guide - Free Ebook](https://curiosum.com/ebooks/elixir-adoption-guide?utm_source=elixir-slack&utm_medium=social&utm_campaign=elixir-adoption-guide)
+- [Updates to Permit and Permit.Phoenix, announcing Permit.Absinthe](https://curiosum.com/blog/permit-open-source-update)
 
 
 
