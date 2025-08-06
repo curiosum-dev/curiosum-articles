@@ -1,6 +1,16 @@
-# Curiosum articles
+# Curiosum articles and resources
 
 Check the constantly updated list of articles published on our [blog](https://curiosum.dev/blog?utm_source=social&utm_medium=github)!
+
+## Elixir Hub
+
+Not only is Elixir present in niches such as telecom and distributed systems, but it's a great general-purpose language finding its foothold in AI/ML and edge computing. Every once in a while we hear about Elixir being adopted by someone big and relevant for the everyday life. **We need to bring this into the spotlight!**
+
+This is why **we've created the Elixir Hub** - an entry point to the Elixir world, showcasing and promoting not only the adopters themselves, but also resources essential to being up-to-date with what's going on: podcasts, books, and more to come.
+
+All of this topped up with a **newsletter to keep readers up to date with Elixir's technical and commercial advancements** - we encourage you to sign up to never miss out on those!
+
+Visit the Elixir Hub: https://curiosum.com/sl/sxvq397d
 
 ## Elixir
 
