@@ -10,7 +10,7 @@ This is why **we've created the Elixir Hub** - an entry point to the Elixir worl
 
 All of this topped up with a **newsletter to keep readers up to date with Elixir's technical and commercial advancements** - we encourage you to sign up to never miss out on those!
 
-Visit the Elixir Hub: https://curiosum.com/sl/sxvq397d
+Visit the Elixir Hub: [https://elixir-hub.com](https://curiosum.com/sl/sxvq397d)
 
 ## Elixir
 
