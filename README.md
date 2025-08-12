@@ -101,7 +101,7 @@ Visit the Elixir Hub: [https://elixir-hub.com](https://curiosum.com/sl/sxvq397d)
 - [Security in Elixir and Phoenix](https://curiosum.com/blog/security-in-elixir)
 - [Elixir Adoption Guide - Free Ebook](https://curiosum.com/ebooks/elixir-adoption-guide?utm_source=elixir-slack&utm_medium=social&utm_campaign=elixir-adoption-guide)
 - [Updates to Permit and Permit.Phoenix, announcing Permit.Absinthe](https://curiosum.com/blog/permit-open-source-update)
-- [Future of Permit authorization library](https://curiosum.com/blog/permit-open-source-update](https://curiosum.com/sl/q22c8vig)
+- [Future of Permit authorization library](https://curiosum.com/blog/permit-open-source-update)
 - [Building a Doorstep Info Station with Nerves, Raspberry Pi & ESP32-based E-Ink](https://curiosum.com/blog/build-phoenix-based-info-station-with-nerves)
 
 
